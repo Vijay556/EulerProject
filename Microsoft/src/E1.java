@@ -4,6 +4,6 @@ if(i%3 == 0 || i%5 == 0){
 a+=i;
 }
 }
-System.out.println(a);
+System.out.println("1. " + a);System.out.println("2. " + a);
 }
 }
